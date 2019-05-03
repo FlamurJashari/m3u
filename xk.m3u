@@ -9,3 +9,5 @@ http://178.132.6.97/RTK3/index.m3u8
 http://178.132.6.97:8080/RTK3/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RTK 4
 http://178.132.6.97:8080/RTK4/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",K Sport 4
+http://fiona.gjirafa.com/play/a013/index.m3u8
