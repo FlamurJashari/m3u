@@ -150,18 +150,6 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4230&
 #EXTINF:-1 tvg-id="" tvg-name="Tring Turkish Story" tvg-logo="" group-title="TV",Tring Turkish Story
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=136718&extension=ts&play_token=ZyWJqUZb6o&sn2=
 
-#EXTINF:-1 tvg-name="Digi Gold 1" group-title="Sports",Digi Gold 1
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=15778&extension=ts&play_token=EBDN2BjqDm&sn2=
-
-#EXTINF:-1 tvg-name="Digi Gold 2" group-title="Sports",Digi Gold 2
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=15779&extension=ts&play_token=TV7BIbK39j&sn2=
-
-#EXTINF:-1 tvg-name="Digi Gold 3" group-title="Sports",Digi Gold 3
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=16814&extension=ts&play_token=SQFUT3h31q&sn2=
-
-#EXTINF:-1 tvg-name="Digi Gold 4" group-title="Sports",Digi Gold 4
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=16815&extension=ts&play_token=WmLHg5pVG0&sn2=
-
 #EXTINF:-1 tvg-id="" tvg-name="TDC" tvg-logo="" group-title="TV",TDC
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=38606&extension=ts&play_token=l1oxktIoww&sn2=
 
