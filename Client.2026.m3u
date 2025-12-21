@@ -1,0 +1,268 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="RTK 1 FHD" group-title="Live",RTK 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22814&extension=ts&play_token=r5Bas9jpL6&sn2=
+
+#EXTINF:-1 tvg-name="RTV 21 FHD" group-title="Live",RTV 21 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=3832&extension=ts&play_token=r2SyDT7FTA&sn2=
+
+#EXTINF:-1 tvg-name="Klan Kosova FHD" group-title="Live",Klan Kosova FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=9455&extension=ts&play_token=ohhRHejCGx&sn2=
+
+#EXTINF:-1 tvg-name="KTV FHD" group-title="Live",KTV FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=9456&extension=ts&play_token=oIUY9CGdam&sn2=
+
+#EXTINF:-1 tvg-name="T7 FHD" group-title="Live",T7 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=23108&extension=ts&play_token=Bg1dNk9Fpv&sn2=
+
+#EXTINF:-1 tvg-name="Dukagjini FHD" group-title="Live",Dukagjini FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4236&extension=ts&play_token=nzN58kymUx&sn2=
+
+#EXTINF:-1 tvg-name="ATV FHD" group-title="Live",ATV FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=73298&extension=ts&play_token=RcvmKC2jYz&sn2=
+
+#EXTINF:-1 tvg-name="Kanal 10 FHD" group-title="Live",Kanal 10 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=53152&extension=ts&play_token=PJEwoyJinF&sn2=
+
+#EXTINF:-1 tvg-name="Tëvë 1 FHD" group-title="Live",Tëvë 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=99872&extension=ts&play_token=qDtuFSrwqg&sn2=
+
+#EXTINF:-1 tvg-name="Klan HD" group-title="Live",Klan HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9454&extension=ts&play_token=OpzffLM7K3&sn2=
+
+#EXTINF:-1 tvg-name="Top Channel FHD" group-title="Live",Top Channel FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4178&extension=ts&play_token=bXLA75kHyV&sn2=
+
+#EXTINF:-1 tvg-name="Big Brother Kosova 1 FHD" group-title="Live",Big Brother Kosova 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=89640&extension=ts&play_token=A1VxIssDBQ&sn2=
+
+#EXTINF:-1 tvg-name="Big Brother Kosova 2 FHD" group-title="Live",Big Brother Kosova 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=89641&extension=ts&play_token=9rMHZ7YpRk&sn2=
+
+#EXTINF:-1 tvg-name="Big Brother Albania 1 FHD" group-title="Live",Big Brother Albania 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=117771&extension=ts&play_token=hYx2wXwR7k&sn2=
+
+#EXTINF:-1 tvg-name="Big Brother Albania 2 FHD" group-title="Live",Big Brother Albania 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=117772&extension=ts&play_token=ZgZja03gkD&sn2=
+
+#EXTINF:-1 tvg-name="X music hits" group-title="Music",X music hits
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22800&extension=ts&play_token=XfR0b8ctV0&sn2=
+
+#EXTINF:-1 tvg-name="Folk" group-title="Music",Folk
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=6260&extension=ts&play_token=R6MkL5pU00&sn2=
+
+#EXTINF:-1 tvg-name="STV Folk" group-title="Music",STV Folk
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=126259&extension=ts&play_token=vgJfpZuLWG&sn2=
+
+#EXTINF:-1 tvg-name="Tv Sharri" group-title="Live",Tv Sharri
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=9368&extension=ts&play_token=5MAENLVG5X&sn2=
+
+#EXTINF:-1 tvg-name="Top Estrada" group-title="Music",Top Estrada
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=12046&extension=ts&play_token=8GDAFA1L8h&sn2=
+
+#EXTINF:-1 tvg-name="Zico Tv" group-title="Music",Zico Tv
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=23854&extension=ts&play_token=Vn7Yhck9RN&sn2=
+
+#EXTINF:-1 tvg-name="Elrodi TV" group-title="Music",Elrodi TV
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4235&extension=ts&play_token=LtRVgJIaOQ&sn2=
+
+#EXTINF:-1 tvg-name="MTV Kosova" group-title="Music",MTV Kosova
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=12051&extension=ts&play_token=CkRangXz8B&sn2=
+
+#EXTINF:-1 tvg-name="E Premier" group-title="Movies",E Premier
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=12031&extension=ts&play_token=DyKozLjxuE&sn2=
+
+#EXTINF:-1 tvg-name="E premier 2" group-title="Movies",E premier 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=12030&extension=ts&play_token=cm1wMYNCoD&sn2=
+
+#EXTINF:-1 tvg-name="E premier 3" group-title="Movies",E premier 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=12029&extension=ts&play_token=SxXZTjR3L8&sn2=
+
+#EXTINF:-1 tvg-name="E Premier 4" group-title="Movies",E Premier 4
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22787&extension=ts&play_token=jUrQpNx7XB&sn2=
+
+#EXTINF:-1 tvg-name="Film Aksion" group-title="Movies",Film Aksion
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=3820&extension=ts&play_token=RBN5NH6AeK&sn2=
+
+#EXTINF:-1 tvg-name="Film Hits" group-title="Movies",Film Hits
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=3818&extension=ts&play_token=0DEiI0aowf&sn2=
+
+#EXTINF:-1 tvg-name="Film Komedi" group-title="Movies",Film Komedi
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=3821&extension=ts&play_token=gwCM9AjFiO&sn2=
+
+#EXTINF:-1 tvg-name="Film Autor" group-title="Movies",Film Autor
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=3803&extension=ts&play_token=4wnDtinqGl&sn2=
+
+#EXTINF:-1 tvg-name="Film Thriller" group-title="Movies",Film Thriller
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4193&extension=ts&play_token=xQ6qQ2MsPv&sn2=
+
+#EXTINF:-1 tvg-name="Film Dramë" group-title="Movies",Film Dramë
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4194&extension=ts&play_token=RJD4Ahzayz&sn2=
+
+#EXTINF:-1 tvg-name="Film Gold" group-title="Movies",Film Gold
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=91872&extension=ts&play_token=ygxVhSB0HC&sn2=
+
+#EXTINF:-1 tvg-name="Film Max" group-title="Movies",Film Max
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=91873&extension=ts&play_token=jDaUoF4R4N&sn2=
+
+#EXTINF:-1 tvg-name="Eurofilm" group-title="Movies",Eurofilm
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=20191&extension=ts&play_token=KpcG3g6p3B&sn2=
+
+#EXTINF:-1 tvg-name="Art Kino 1" group-title="Movies",Art Kino 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=28175&extension=ts&play_token=YRI2tlvO8e&sn2=
+
+#EXTINF:-1 tvg-name="Art Kino 2" group-title="Movies",Art Kino 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=28176&extension=ts&play_token=vIJ96Rvf71&sn2=
+
+#EXTINF:-1 tvg-name="Art Kino 3" group-title="Movies",Art Kino 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=28177&extension=ts&play_token=NbAbgMizWh&sn2=
+
+#EXTINF:-1 tvg-name="Tring Aksion" group-title="Movies",Tring Aksion
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4223&extension=ts&play_token=Bw2G0civSG&sn2=
+
+#EXTINF:-1 tvg-name="Tring Life" group-title="Movies",Tring Life
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4224&extension=ts&play_token=9r6nYPwdq2&sn2=
+
+#EXTINF:-1 tvg-name="Tring Series" group-title="Movies",Tring Series
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4227&extension=ts&play_token=L1gtRXXdN8&sn2=
+
+#EXTINF:-1 tvg-name="Tring Collection" group-title="Movies",Tring Collection
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=139851&extension=ts&play_token=5MvHRNnj8P&sn2=
+
+#EXTINF:-1 tvg-name="Tring classic" group-title="Movies",Tring classic
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=139850&extension=ts&play_token=pTdhLZNMko&sn2=
+
+#EXTINF:-1 tvg-name="Tring 3+" group-title="Movies",Tring 3+
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4237&extension=ts&play_token=apiQLgOfRy&sn2=
+
+#EXTINF:-1 tvg-name="Tring Super" group-title="Movies",Tring Super
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4218&extension=ts&play_token=edzsiMCoBf&sn2=
+
+#EXTINF:-1 tvg-name="Tring Comedy" group-title="Movies",Tring Comedy
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=2054&extension=ts&play_token=tp9wh6lEH3&sn2=
+
+#EXTINF:-1 tvg-name="Tring Novelas" group-title="Movies",Tring Novelas
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=93395&extension=ts&play_token=tJmmh4gbXm&sn2=
+
+#EXTINF:-1 tvg-name="Tring Fantasy" group-title="Movies",Tring Fantasy
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4230&extension=ts&play_token=p66wHALBE6&sn2=
+
+#EXTINF:-1 tvg-name="Tring Turkish Story" group-title="Movies",Tring Turkish Story
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=136718&extension=ts&play_token=ZyWJqUZb6o&sn2=
+
+#EXTINF:-1 tvg-name="Digi Gold 1" group-title="Movies",Digi Gold 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=15778&extension=ts&play_token=EBDN2BjqDm&sn2=
+
+#EXTINF:-1 tvg-name="Digi Gold 2" group-title="Movies",Digi Gold 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=15779&extension=ts&play_token=TV7BIbK39j&sn2=
+
+#EXTINF:-1 tvg-name="Digi Gold 3" group-title="Movies",Digi Gold 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=16814&extension=ts&play_token=SQFUT3h31q&sn2=
+
+#EXTINF:-1 tvg-name="Digi Gold 4" group-title="Movies",Digi Gold 4
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=16815&extension=ts&play_token=WmLHg5pVG0&sn2=
+
+#EXTINF:-1 tvg-name="TDC" group-title="Live",TDC
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=38606&extension=ts&play_token=l1oxktIoww&sn2=
+
+#EXTINF:-1 tvg-name="Kanal D Drama" group-title="Movies",Kanal D Drama
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=56168&extension=ts&play_token=sIbDgAYNfo&sn2=
+
+#EXTINF:-1 tvg-name="Tring World" group-title="Documentary",Tring World
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4213&extension=ts&play_token=8sDHMH67AF&sn2=
+
+#EXTINF:-1 tvg-name="Tring Planet" group-title="Documentary",Tring Planet
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=6088&extension=ts&play_token=ttycNwe8Zk&sn2=
+
+#EXTINF:-1 tvg-name="Tring Histori" group-title="Documentary",Tring Histori
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4228&extension=ts&play_token=ryOYdWJc3E&sn2=
+
+#EXTINF:-1 tvg-name="Explorer Shkencë" group-title="Documentary",Explorer Shkencë
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4203&extension=ts&play_token=YWP0iYzwQb&sn2=
+
+#EXTINF:-1 tvg-name="Explorer Natyra" group-title="Documentary",Explorer Natyra
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4202&extension=ts&play_token=jpZ9x8g5NY&sn2=
+
+#EXTINF:-1 tvg-name="Explorer Histori" group-title="Documentary",Explorer Histori
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4204&extension=ts&play_token=tj3g9iZfUS&sn2=
+
+#EXTINF:-1 tvg-name="Art Doku 1" group-title="Documentary",Art Doku 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=28178&extension=ts&play_token=Peq8nE2DIh&sn2=
+
+#EXTINF:-1 tvg-name="Art Doku 2" group-title="Documentary",Art Doku 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=28179&extension=ts&play_token=7SyCd1KV5I&sn2=
+
+#EXTINF:-1 tvg-name="Tëvë Doku 1" group-title="Documentary",Tëvë Doku 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=116968&extension=ts&play_token=Ma02sGi4yR&sn2=
+
+#EXTINF:-1 tvg-name="Tëvë Doku 2" group-title="Documentary",Tëvë Doku 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=116969&extension=ts&play_token=hSlsYWxZF6&sn2=
+
+#EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=3793&extension=ts&play_token=cr5tguRJYb&sn2=
+
+#EXTINF:-1 tvg-name="Bang Bang" group-title="Kids",Bang Bang
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=7062&extension=ts&play_token=FzI07dlKaL&sn2=
+
+#EXTINF:-1 tvg-name="Çufo" group-title="Kids",Çufo
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4208&extension=ts&play_token=oEm7DZyjrG&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 1 HD" group-title="Sports",Super Sport 1 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4198&extension=ts&play_token=y9DVEv4Mix&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 1 FHD" group-title="Sports",Super Sport 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22807&extension=ts&play_token=HWag6aR8aJ&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 2 HD" group-title="Sports",Super Sport 2 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4199&extension=ts&play_token=tBoHmpiN9G&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 2 FHD" group-title="Sports",Super Sport 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22808&extension=ts&play_token=gbRAuAsgTk&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 3 FHD" group-title="Sports",Super Sport 3 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22809&extension=ts&play_token=PL7frMWK46&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 4 FHD" group-title="Sports",Super Sport 4 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22810&extension=ts&play_token=jrOdYNZRUs&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 5 FHD" group-title="Sports",Super Sport 5 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22811&extension=ts&play_token=ghQLeD6atx&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 6 FHD" group-title="Sports",Super Sport 6 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22812&extension=ts&play_token=Z2JjYI8wWK&sn2=
+
+#EXTINF:-1 tvg-name="Super Sport 7 FHD" group-title="Sports",Super Sport 7 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22813&extension=ts&play_token=Zo1SUuZp9i&sn2=
+
+#EXTINF:-1 tvg-name="Art Sport 1 FHD" group-title="Sports",Art Sport 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=28182&extension=ts&play_token=0LDAxgwByl&sn2=
+
+#EXTINF:-1 tvg-name="Art Sport 2 FHD" group-title="Sports",Art Sport 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=28183&extension=ts&play_token=wEcmr3rh8j&sn2=
+
+#EXTINF:-1 tvg-name="Art Sport 3 FHD" group-title="Sports",Art Sport 3 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=28184&extension=ts&play_token=58FRSFTxmo&sn2=
+
+#EXTINF:-1 tvg-name="Art Sport 4 FHD" group-title="Sports",Art Sport 4 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=89864&extension=ts&play_token=dWbuHexAsS&sn2=
+
+#EXTINF:-1 tvg-name="Art Sport 5 FHD" group-title="Sports",Art Sport 5 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=89865&extension=ts&play_token=niIJLiE5l0&sn2=
+
+#EXTINF:-1 tvg-name="Art Sport 6 FHD" group-title="Sports",Art Sport 6 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=89866&extension=ts&play_token=1Jq4jxXTkQ&sn2=
+
+#EXTINF:-1 tvg-name="Tring Sport News" group-title="Sports",Tring Sport News
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=8077&extension=ts&play_token=k03Y2ADv12&sn2=
+
+#EXTINF:-1 tvg-name="Tring Sport 1 FHD" group-title="Sports",Tring Sport 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=8078&extension=ts&play_token=pgF99A6hXP&sn2=
+
+#EXTINF:-1 tvg-name="Tring Sport 2 FHD" group-title="Sports",Tring Sport 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=8079&extension=ts&play_token=NKAUW20Yn2&sn2=
+
+#EXTINF:-1 tvg-name="Tring Sport 3 FHD" group-title="Sports",Tring Sport 3 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=8080&extension=ts&play_token=aLpgr39eiQ&sn2=
+
+#EXTINF:-1 tvg-name="Tring Sport 4 FHD" group-title="Sports",Tring Sport 4 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=8081&extension=ts&play_token=E750ZcaxKF&sn2=
