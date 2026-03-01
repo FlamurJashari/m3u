@@ -72,6 +72,8 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:f2:78:f2&stream=12625
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvopoja.jpg",TV OPOJA
 http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:f2:78:f2&stream=16475&extension=ts&play_token=LplL2cSrBG&sn2=
 
+#EXTINF:-1 ,Shqiponja TV
+https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvfontana.jpg",RTV Fontana
 http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:f2:78:f2&stream=24860&extension=ts&play_token=LplL2cSrBG&sn2=
 
